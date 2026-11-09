@@ -10,9 +10,9 @@
       "name": "skilltotal",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/pezhik/skilltotal.git",
+        "url": "https://github.com/abyss68686/skilltotal.git",
         "path": "plugin",
-        "ref": "stable"
+        "ref": "main"
       },
       "description": "Scan packages before the agent installs them."
     }
